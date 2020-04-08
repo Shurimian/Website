@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+header{
+    background-color: rgb(0, 255, 221);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+h1, h2{
+    font-family: 'Bebas Neue', cursive;
+}
+
+header h1{
+    color: white;
+    font-size: 50px;
+}
+
+header img{
+    border-radius: 300px;
+    width: 300px;
+    border: 10px solid rgb(255, 255, 255);
+}
+
+main{
+    max-width:1600px;
+    margin: 0 auto;
+    padding: 5% 20%;
+}
+
+main h1{
+    font-size: 50px;
+}
+
+main h2{
+    font-size: 25px;
+}
+
+main ol{
+    font-size: 16px;
+}
+
+a{
+    color:#000000;
+}
+
+ a:hover{
+    color:#7700ffa6;
+}
+
+footer{
+    background-color: rgb(0, 255, 221);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
