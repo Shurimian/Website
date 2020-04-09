@@ -40,7 +40,7 @@ main h1{
     padding-bottom: 20px;
 }
 
-.align ul{
+.align ul, p, ol{
     display: inline;
 }
 
