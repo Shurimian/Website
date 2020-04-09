@@ -28,7 +28,7 @@ header img{
 }
 
 main{
-    max-width:1600px;
+    max-width:2000px;
     margin: 0 auto;
     padding: 30px 20%;
 }
@@ -40,12 +40,14 @@ main h1{
     padding-bottom: 20px;
 }
 
-.align ul, p{
-    display: inline;
-}
-
 main h2{
     font-size: 25px;
+    text-align: center;
+    width: 1200px;
+}
+
+.align ul, p{
+    display: inline;
     text-align: center;
 }
 
@@ -53,6 +55,9 @@ main ol{
     font-size: 16px;
 }
 
+ul{
+    padding: 10px 60px 10px 60px;
+}
 a{
     color:#000000;
 }
