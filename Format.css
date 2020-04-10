@@ -46,7 +46,7 @@ main h2{
     width: 1200px;
 }
 
-.align ul, p{
+.align ul, p, li{
     display: inline;
     text-align: center;
 }
@@ -55,7 +55,8 @@ main ol{
     font-size: 16px;
 }
 
-ul{
+li{
+    list-style-type: none;
     padding: 10px 60px 10px 60px;
 }
 a{
